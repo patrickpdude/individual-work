@@ -6,3 +6,4 @@
 * Exercises
 * Automated settings
 * More objectives
+* Advanced Objectives
